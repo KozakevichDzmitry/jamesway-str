@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jamesway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-13 09:56+0000\n"
+"PO-Revision-Date: 2021-02-17 15:52+0000\n"
+"Last-Translator: admin-dev <web.wp.developer@gmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:17
+msgid "Back to home"
+msgstr ""
+
+#: index.php:116
+msgid "Category"
+msgstr "Categoría"
+
+#: single.php:62
+msgid "Category: "
+msgstr "Categoría:"
+
+#: page-login.php:86
+msgid "Click Here"
+msgstr ""
+
+#: footer.php:66
+msgid "Copyright"
+msgstr ""
+
+#: page-ressources.php:207 page-ressources.php:217
+msgid "Download"
+msgstr "Descargar"
+
+#: functions.php:486
+msgid "Email accepted..."
+msgstr ""
+
+#: functions.php:488
+msgid "Email is not exist"
+msgstr ""
+
+#: page-login.php:85
+msgid "Forgot password?"
+msgstr ""
+
+#: functions.php:163
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:439
+msgid "Invalid login or password"
+msgstr ""
+
+#. Author of the theme
+msgid "ITW"
+msgstr ""
+
+#. Name of the theme
+msgid "Jamesway"
+msgstr ""
+
+#: include/section_tabs.php:61
+msgid "Learn More"
+msgstr "Saber más"
+
+#: functions.php:222 page-login.php:69
+msgid "Login"
+msgstr "Inicio de sesión"
+
+#: functions.php:247 page-login.php:90
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: functions.php:465
+msgid "Password accepted. Redirecting..."
+msgstr ""
+
+#: index.php:94
+msgid "Posts not found."
+msgstr "No se encontraron resultados de la búsqueda"
+
+#: functions.php:23
+msgid "Primary menu"
+msgstr ""
+
+#: search.php:54
+msgid "Product Not Found"
+msgstr "No se encontraron resultados de la búsqueda"
+
+#: functions.php:94
+msgid "Project"
+msgstr ""
+
+#: functions.php:93
+msgid "Projects"
+msgstr "Proyectos"
+
+#: search.php:61
+msgid "Rather search for something else?"
+msgstr "¿Prefiere hacer otra búsqueda?"
+
+#: functions.php:246
+msgid "Salesnet"
+msgstr ""
+
+#: search.php:18 search.php:64 index.php:45
+msgid "Search"
+msgstr "Buscar"
+
+#: search.php:34 search.php:48
+msgid "Search results for"
+msgstr "Resultados de búsqueda para"
+
+#: include/section_news.php:57 include/section_support.php:16
+msgid "See All"
+msgstr "Ver todo"
+
+#: page-ressources.php:474
+msgid "See All Webinars"
+msgstr "Ver todos los webinars"
+
+#: page-contact.php:175
+msgid "Select Country"
+msgstr "Seleccione un país"
+
+#: page-accessories.php:152 page-products.php:235
+msgid "Select filter"
+msgstr ""
+
+#: functions.php:411
+msgid "share on"
+msgstr ""
+
+#: functions.php:142 functions.php:143
+msgid "Site settings"
+msgstr ""
+
+#: search.php:70 page-login.php:79
+msgid "Submit"
+msgstr "Enviar"
+
+#: index.php:125
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: functions.php:116
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:115
+msgid "Testimonials"
+msgstr ""
+
+#: page-login.php:85
+msgid "To recover your password,"
+msgstr ""
+
+#: functions.php:22
+msgid "Top menu"
+msgstr ""
+
+#: page-ressources.php:233
+msgid "View All In  This Category"
+msgstr "Ver todo de esta categoría"
+
+#: page-ressources.php:432
+msgid "View Presentation"
+msgstr "Ver presentación"
+
+#: page-ressources.php:456
+msgid "Watch the video"
+msgstr "Mire el video"
+
+#: page-ressources.php:396
+msgid "Watch video"
+msgstr ""
+
+#: search.php:56
+msgid "We are sorry. Your search does not match any content in the website."
+msgstr ""
+"Lo sentimos, no encontramos nada que coincidiera con los términos de "
+"búsqueda."
+
+#: footer.php:77
+msgid "Website by"
+msgstr ""
+
+#: functions.php:482
+msgid "Welcome to the"
+msgstr ""
+
+#: functions.php:482
+msgid "Your new password to your account - "
+msgstr ""
+
+#: functions.php:481
+msgid "Your password has been changed"
+msgstr "La contraseña fue actualizada. "

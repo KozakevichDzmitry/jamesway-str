@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jamesway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-13 09:56+0000\n"
+"PO-Revision-Date: 2021-02-17 15:54+0000\n"
+"Last-Translator: admin-dev <web.wp.developer@gmail.com>\n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: 404.php:17
+msgid "Back to home"
+msgstr "观看视频"
+
+#: index.php:116
+msgid "Category"
+msgstr "类别"
+
+#: single.php:62
+msgid "Category: "
+msgstr "类别"
+
+#: page-login.php:86
+msgid "Click Here"
+msgstr ""
+
+#: footer.php:66
+msgid "Copyright"
+msgstr ""
+
+#: page-ressources.php:207 page-ressources.php:217
+msgid "Download"
+msgstr "下载"
+
+#: functions.php:486
+msgid "Email accepted..."
+msgstr ""
+
+#: functions.php:488
+msgid "Email is not exist"
+msgstr ""
+
+#: page-login.php:85
+msgid "Forgot password?"
+msgstr ""
+
+#: functions.php:163
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:439
+msgid "Invalid login or password"
+msgstr ""
+
+#. Author of the theme
+msgid "ITW"
+msgstr ""
+
+#. Name of the theme
+msgid "Jamesway"
+msgstr ""
+
+#: include/section_tabs.php:61
+msgid "Learn More"
+msgstr "了解更多"
+
+#: functions.php:222 page-login.php:69
+msgid "Login"
+msgstr "登录"
+
+#: functions.php:247 page-login.php:90
+msgid "Logout"
+msgstr "退出登录"
+
+#: functions.php:465
+msgid "Password accepted. Redirecting..."
+msgstr ""
+
+#: index.php:94
+msgid "Posts not found."
+msgstr "没有找到结果"
+
+#: functions.php:23
+msgid "Primary menu"
+msgstr ""
+
+#: search.php:54
+msgid "Product Not Found"
+msgstr "找不到产品"
+
+#: functions.php:94
+msgid "Project"
+msgstr ""
+
+#: functions.php:93
+msgid "Projects"
+msgstr "项目"
+
+#: search.php:61
+msgid "Rather search for something else?"
+msgstr ""
+
+#: functions.php:246
+msgid "Salesnet"
+msgstr ""
+
+#: search.php:18 search.php:64 index.php:45
+msgid "Search"
+msgstr "搜索"
+
+#: search.php:34 search.php:48
+msgid "Search results for"
+msgstr "搜索结果"
+
+#: include/section_news.php:57 include/section_support.php:16
+msgid "See All"
+msgstr "观看全部"
+
+#: page-ressources.php:474
+msgid "See All Webinars"
+msgstr "查看所有的在线研讨会"
+
+#: page-contact.php:175
+msgid "Select Country"
+msgstr "选择国家"
+
+#: page-accessories.php:152 page-products.php:235
+msgid "Select filter"
+msgstr ""
+
+#: functions.php:411
+msgid "share on"
+msgstr ""
+
+#: functions.php:142 functions.php:143
+msgid "Site settings"
+msgstr ""
+
+#: search.php:70 page-login.php:79
+msgid "Submit"
+msgstr "提交"
+
+#: index.php:125
+msgid "Tags"
+msgstr "标签"
+
+#: functions.php:116
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:115
+msgid "Testimonials"
+msgstr ""
+
+#: page-login.php:85
+msgid "To recover your password,"
+msgstr ""
+
+#: functions.php:22
+msgid "Top menu"
+msgstr ""
+
+#: page-ressources.php:233
+msgid "View All In  This Category"
+msgstr "查看此类别中所有的信息"
+
+#: page-ressources.php:432
+msgid "View Presentation"
+msgstr "プレゼンテーションを見る"
+
+#: page-ressources.php:456
+msgid "Watch the video"
+msgstr "观看视频"
+
+#: page-ressources.php:396
+msgid "Watch video"
+msgstr ""
+
+#: search.php:56
+msgid "We are sorry. Your search does not match any content in the website."
+msgstr ""
+
+#: footer.php:77
+msgid "Website by"
+msgstr ""
+
+#: functions.php:482
+msgid "Welcome to the"
+msgstr ""
+
+#: functions.php:482
+msgid "Your new password to your account - "
+msgstr ""
+
+#: functions.php:481
+msgid "Your password has been changed"
+msgstr "您的密码已更新"

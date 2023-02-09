@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="408px" height="408px" viewBox="0 0 408 408" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>EF4B62A4-9715-4668-BD30-3765A868C191@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-18.2%" y="-36.9%" width="136.5%" height="173.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="15" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25427423 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-413.000000, -707.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1920" height="6279"></rect>
+            <g id="Banner" transform="translate(0.000000, -17.000000)" fill-rule="nonzero">
+                <g id="image" filter="url(#filter-1)" transform="translate(533.000000, 844.000000)">
+                    <g id="Atoms-/-Media-/-image-/-Background-video-Copy" transform="translate(26.000000, 26.000000)">
+                        <circle id="Oval" fill="#DA322A" cx="58" cy="58" r="58"></circle>
+                        <polygon id="youtube-play---FontAwesome" fill="#FFFFFF" points="44.5624097 78.6643608 84.4600425 58.0253397 44.5624097 37.1386504"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

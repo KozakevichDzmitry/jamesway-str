@@ -1,0 +1,83 @@
+{
+  "blocks": {
+    "block": [
+      {
+        "name": "HMWP_Controllers_Settings",
+        "actions": {
+          "action": [
+            "hmwp_settings",
+            "hmwp_tweakssettings",
+            "hmwp_confirm",
+            "hmwp_newpluginschange",
+            "hmwp_logout",
+            "hmwp_abort",
+            "hmwp_manualrewrite",
+            "hmwp_mappsettings",
+            "hmwp_advsettings",
+            "hmwp_devsettings",
+            "hmwp_devdownload",
+            "hmwp_changepathsincache",
+            "hmwp_backup",
+            "hmwp_restore",
+            "hmwp_connect"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "HMWP_Controllers_Plugins",
+        "actions": {
+          "action": [
+            "hmwp_plugin_install"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "HMWP_Controllers_SecurityCheck",
+        "actions": {
+          "action": [
+            "hmwp_securitycheck",
+            "hmwp_fixsettings",
+            "hmwp_fixconfig",
+            "hmwp_securityexclude",
+            "hmwp_resetexclude"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "HMWP_Controllers_Brute",
+        "actions": {
+          "action": [
+            "hmwp_brutesettings",
+            "hmwp_blockedips",
+            "hmwp_deleteip",
+            "hmwp_deleteallips"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "HMWP_Controllers_Log",
+        "actions": {
+          "action": [
+            "hmwp_logsettings"
+          ]
+        },
+        "admin": "1",
+        "active": "1"
+      },
+      {
+        "name": "HMWP_Controllers_Widget",
+        "actions": { "action": "hmwp_widget_securitycheck" },
+        "admin": "1",
+        "active": "1"
+      }
+    ]
+  }
+}

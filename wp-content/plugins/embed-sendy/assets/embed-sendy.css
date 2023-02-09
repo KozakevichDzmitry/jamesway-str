@@ -1,0 +1,71 @@
+.esd-form {
+	margin: 30px auto;
+	padding: 50px 30px;
+	background-color: #f5f5f5;
+	text-align: center;
+}
+
+.esd-form__fields {
+	display: flex;
+}
+
+.esd-form__row + .esd-form__row {
+	margin-top: 30px;
+}
+
+.esd-form__footer {
+	font-size: 0.85em;
+}
+
+.esd-form:not(.esd-form--show-name) input[type='email'] {
+	width: 100%;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+	border-right: 0;
+}
+
+.esd-form:not(.esd-form--show-name) input[type='submit'] {
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+	border-left: 0;
+}
+
+.esd-form h1,
+.esd-form h2,
+.esd-form h3,
+.esd-form h4,
+.esd-form h5,
+.esd-form h6 {
+	color: inherit;
+}
+
+.esd-form--show-name .esd-form__fields {
+	display: block;
+}
+
+.esd-form--show-name .esd-form__fields input:not([type=checkbox]) {
+	width: 100%;
+}
+
+.esd-form--show-name .esd-form__fields input + input {
+	margin: 10px 0 0;
+}
+
+.gdpr-row {
+	font-size: 0.75em;
+	text-align: left;
+	display: flex;
+	align-items: center;
+	margin: 15px 0;
+}
+
+.gdpr-row label {
+	display: block;
+	margin-left: 10px;
+	line-height: 1.4;
+}
+
+.esd-form__response--error {
+	font-size: 1rem;
+	color: red;
+}

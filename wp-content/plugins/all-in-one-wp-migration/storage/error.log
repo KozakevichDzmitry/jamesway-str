@@ -1,0 +1,441 @@
+Apr 04 2019 14:44:00
+{"Number":8,"Message":"unserialize(): Error at offset 630 of 634 bytes","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-includes\/functions.php","Line":446}
+
+Apr 04 2019 14:44:00
+{"Number":8,"Message":"unserialize(): Error at offset 630 of 634 bytes","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-includes\/functions.php","Line":446}
+
+Apr 04 2019 14:58:17
+{"Number":2,"Message":"filesize(): stat failed for \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/dlzjpzvcpb0t\/www.jamesway.com-20190404-144400-385.wpress","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":217}
+
+Jan 27 2020 14:27:48
+{"Number":8,"Message":"unserialize(): Error at offset 47 of 256 bytes","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-includes\/functions.php","Line":578}
+
+Jan 27 2020 14:27:48
+{"Number":8,"Message":"unserialize(): Error at offset 47 of 256 bytes","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-includes\/functions.php","Line":578}
+
+Mar 13 2020 13:55:15
+{"Number":2,"Message":"filesize(): stat failed for \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/j9cnoq14svjp\/www.jamesway.com-20200313-134103-383.wpress","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":217}
+
+Feb 23 2021 12:57:51
+{"Number":2,"Message":"filesize(): stat failed for \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/mlp4qogwlm13\/www.jamesway.com-20210223-125705-530.wpress","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-archiver.php","Line":217}
+
+Aug 02 2021 06:53:37
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:37
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 06:53:37
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:38
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:38
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:38
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 06:53:38
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:39
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:40
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:40
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 06:53:40
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:41
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:43
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:43
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:43
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:44
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:44
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:44
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:46
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:46
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:46
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:46
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:46
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:46
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:47
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:47
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:47
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:50
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:50
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:50
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:50
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:50
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:50
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:52
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:52
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:53
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:53
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:53
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:54
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:57
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:57
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:57
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 06:53:59
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:59
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 06:53:59
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/agrimdpx2zvi): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:05
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:05
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:05
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:05
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:06
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:06
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:06
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:06
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:08
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:08
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:08
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:08
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:11
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:11
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:11
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:11
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:15
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:15
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:15
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:15
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 09:09:20
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:20
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 09:09:20
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 09:09:21
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/6o8hkw8hyj7v): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:02
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:02
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:02
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:02
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:03
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:03
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:03
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:03
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:05
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:05
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:05
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:05
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:08
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:08
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:08
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:08
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:12
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:12
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:12
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:12
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Aug 02 2021 12:03:17
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:17
+{"Number":2,"Message":"fopen(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u\/export.log): failed to open stream: No such file or directory","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":1122}
+
+Aug 02 2021 12:03:17
+{"Number":2,"Message":"mkdir(): Disk quota exceeded","File":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":40}
+
+Aug 02 2021 12:03:17
+{"type":1,"message":"Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/30lx5dhzi09u): failed to open dir: No such file or directory in \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php:29\nStack trace:\n#0 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php(29): RecursiveDirectoryIterator->__construct('\/home\/yq3nhsev8...')\n#1 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/filesystem\/class-ai1wm-directory.php(46): Ai1wm_Recursive_Directory_Iterator->__construct('\/home\/yq3nhsev8...')\n#2 \/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-export-controller.php(86): Ai1wm_Directory::delete('\/home\/yq3nhsev8...')\n#3 \/home\/yq3nhsev8gh6\/public_html\/w","file":"\/home\/yq3nhsev8gh6\/public_html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/iterator\/class-ai1wm-recursive-directory-iterator.php","line":29}
+
+Dec 23 2021 08:35:21
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:22
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:23
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:24
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:29
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:40
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:35:54
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:36:05
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:36:18
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:36:34
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:36:45
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:37:05
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:37:17
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:37:28
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:37:40
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:37:52
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:38:01
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:38:18
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:38:29
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:38:40
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:38:51
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:39:03
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:39:14
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:39:25
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:39:37
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:39:48
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:00
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:11
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:23
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:34
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:46
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:40:58
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:09
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:20
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:32
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:43
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:46
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:41:57
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:42:10
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:42:22
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:42:33
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:42:45
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:42:57
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:43:00
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:43:01
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Dec 23 2021 08:43:02
+{"type":2,"message":"defined() expects exactly 1 parameter, 2 given","file":"\/home\/wody2njzlvt7\/public_html\/jamesway-stg\/wp-content\/themes\/jamesway\/functions.php","line":13}
+
+Feb 04 2023 07:17:32
+{"type":2,"message":"mkdir(): File exists","file":"\/var\/www\/html\/wp-includes\/functions.php","line":2057}
+

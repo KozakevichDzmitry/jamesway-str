@@ -1,0 +1,10 @@
+.tablenav .tablenav-pages a:focus, .tablenav .tablenav-pages a:hover,#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu{background: #81a93a !important;}
+.plugin-update-tr.active td, .plugins .active th.check-column {border-left: 4px solid #81a93a !important;}
+#adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus,#adminmenu li:hover div.wp-menu-image:before,#collapse-menu:hover, #collapse-menu:hover #collapse-button div:after, #adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus, #adminmenu li a:focus div.wp-menu-image:before, #adminmenu li.opensub div.wp-menu-image:before, #adminmenu li:hover div.wp-menu-image:before{color: #fff !important;}
+body.login h1 a{background-image: url(../img/itw-logo.svg) no-repeat center!important;}
+.folded .wp-first-item.menu-top-first{background: url(../img/itw-logo.svg) 10px 50% no-repeat;}
+#adminmenu{background: url(../img/itw-logo.svg) 10px 12px no-repeat;background-size: 80px;}
+#adminmenu{padding-top: 50px;}
+.ui-sortable tr:hover {cursor: move;}
+.ui-sortable tr.alternate {background-color: #F9F9F9;	}
+.ui-sortable tr.ui-sortable-helper {background-color: #F9F9F9;border-top: 1px solid #DFDFDF;}

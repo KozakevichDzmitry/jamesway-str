@@ -1,0 +1,16 @@
+Array
+(
+    [0] => subscribe
+    [1] => Array
+        (
+            [name] => 
+            [email] => web.wp.developer@gmail.com
+            [ipaddress] => 185.109.52.140
+            [referrer] => http://jamesway-stg.itwdev.info/resources
+            [gdpr] => 
+            [hp] => 
+            [subform] => yes
+            [g-recaptcha-response] => 03AGdBq27vRvs9mbgY2B2Dy3hi30C-jJlma2uqoxeb3oSCxeghAxJ03V31oAMl3xNUsTzeJFAatMNrOTO3DG5MIm_zf_p-jNUs_G1ITJCPaWRURIUKl9SwFUnYheGYOMR3D-RHBURE_R6qPueGHsdkGEzchPVN5PypM0mCNES_dwFJprw4pa_UC0C3JiqNgvOMf19dg0Ey3rnxpPFufjCpqYPwQIZq69K-tN5Nlzv3cIHYWbvIRnes9dNj9gUGjgKQCPMif26docUP7siaRObEtq-LTWjLdyz8B1ca8scXQ84QtahnmJCuK0InsVypK-7Jk1G-sn2FsgK-yMRk_HE4WMUN6VYHAECAiB-BLnbKmX0vvUH-vAzzgi-3rM9-MucObF9kI_LtFQR2uaYM3AtmLuRZUSA-Qe2H0Y_EPNK8VFrhN0WlkfbCDQyAfeu9GKQfNImkSTKhkUsI---qSdd8xPlnLIp9L5kDKg
+        )
+
+)
