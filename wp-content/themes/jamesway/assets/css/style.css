@@ -10642,3 +10642,16 @@ nav ul li a,
 .accordion-title2:before{content: "";position: absolute;right:6px;top:50%;width:10px;height:10px;margin-top: -2px;border-left: 1px solid #484848;border-bottom: 1px solid #484848;transform: translateY(-50%) rotate(-45deg);-webkit-transition: all .3s ease-in-out;transition: all .3s ease-in-out}
 .accordion-inner{display: none;padding-top:16px;padding-bottom:40px;}
 .accordion-title2.active:before{transform: translateY(-50%) rotate(135deg);margin-top: 2px;}
+
+/*contact page*/
+.contacts-locations{
+    display: flex;
+    flex-wrap: wrap;
+}
+.contacts-locations__title{
+    width: 100%;
+    margin-bottom: -40px;
+}
+.contacts-locations__item{
+    margin-top: 40px;
+}
