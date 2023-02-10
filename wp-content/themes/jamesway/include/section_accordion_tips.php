@@ -27,13 +27,13 @@ $accordion_tips = get_sub_field('accordion_tips');
                             <?php if (array_key_exists('title', $tip) && !empty($tip['title'])) {
                                 echo $tip['title'];
                             } ?>
-                            <span></span>
                         </h3>
                         <div class="accordion__tips-excerpt"><?php echo $excerpt; ?></div>
                     </div>
                     <div class="accordion__tips-content">
                         <?php echo $description; ?>
                     </div>
+                    <span class="accordion_arrow"></span>
                 </div>
             </div>
         <?php endforeach; ?>

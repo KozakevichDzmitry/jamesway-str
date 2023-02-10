@@ -1219,7 +1219,7 @@ jQuery(function( $ ) {
     });
     // open accordion tips
 
-    $('.accordion__tips-title').on('click', function(event) {
+    $('.accordion_arrow').on('click', function(event) {
         var this_acc = $(this).closest('.accordion__tips-element');
         setTimeout( function() {
             $('html, body').animate({

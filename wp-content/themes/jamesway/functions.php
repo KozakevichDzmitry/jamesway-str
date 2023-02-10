@@ -96,6 +96,8 @@ function jmw_scripts()
 
     wp_enqueue_style('jmw-custom-style', THEME_URI . '/assets/css/jmw-style.css?ver=111', array());
 
+    wp_enqueue_style('tl_tr_box', THEME_URI . '/assets/css/tl_tr_box.css');
+
     wp_enqueue_style('jmw-style', get_stylesheet_uri(), array(), SCRIPT_VER);
 
 
