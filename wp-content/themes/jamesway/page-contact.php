@@ -44,9 +44,9 @@ if( !defined('ABSPATH') ) exit; get_header();
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1">
                     <div class="empty-lg-30"></div>
-                    <div class="row">
+                    <div class="row contacts-locations">
                     	<?php if( $cp_subtitle ): ?>
-                            <div class="col-lg-12">
+                            <div class="col-lg-12 contacts-locations__title">
                                 <div class="block-title type4">
                                     <h3 class="h3"><?php echo $cp_subtitle; ?></h3>
                                 </div>  
@@ -56,7 +56,7 @@ if( !defined('ABSPATH') ) exit; get_header();
                         if( $cp_locations ):
 							$cp_locations_i = 0;
                             foreach( $cp_locations as $location ): $cp_locations_i++; ?>
-								<div class="col-md-3 col-sm-6 col-xs-12">
+								<div class="col-md-3 col-sm-6 col-xs-12 contacts-locations__item">
 	                                <div class="contact-item">
 	                                	<?php if( $location['title'] ): ?>
 		                                    <div class="country" id="country_cont_<?php echo $cp_locations_i; ?>"><?php echo $location['title']; ?></div>
