@@ -96,6 +96,9 @@ function jmw_scripts()
 
     wp_enqueue_style('jmw-style', get_stylesheet_uri(), array(), SCRIPT_VER);
 
+    wp_enqueue_style('jmw-accordion-tips',THEME_URI . '/assets/css/accordion-tips.css', array(), SCRIPT_VER);
+
+    wp_enqueue_style('tl_tr_box', THEME_URI . '/assets/css/tl_tr_box.css');
 
 
     wp_deregister_script('jquery');

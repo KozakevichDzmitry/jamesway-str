@@ -1212,10 +1212,21 @@ jQuery(function( $ ) {
 
         $(this).closest('.accordion-element').toggleClass('active').find('.accordion-content').slideToggle(400);
 
+    });
 
 
+    // open accordion tips
 
+    $('.accordion_arrow').on('click', function(event) {
+        var this_acc = $(this).closest('.accordion__tips-element');
+        setTimeout( function() {
+            $('html, body').animate({
+                scrollTop: $(this_acc).offset().top
+            }, 400);
+        }, 400);
 
+        $(this).closest('.accordion__tips-element').siblings('.active').removeClass('active').find('.accordion__tips-content').slideToggle(400);
+        $(this).closest('.accordion__tips-element').toggleClass('active').find('.accordion__tips-content').slideToggle(400);
     });
 
     //open filters

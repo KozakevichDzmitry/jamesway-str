@@ -76,6 +76,10 @@ if (have_rows('template_content')) :
 			get_template_part('include/section_about_wave_text');
 		elseif (get_row_layout() == 'content-slider') :
 			get_template_part('include/section_content_slider');
+        elseif (get_row_layout() == 'tips') :
+            get_template_part('include/section_accordion_tips');
+        elseif (get_row_layout() == 'title_left_text_right_&_bg_title') :
+            get_template_part('include/section_title_left_text_right');
         endif;
 	endwhile;
 endif;
