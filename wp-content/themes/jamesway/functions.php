@@ -84,8 +84,6 @@ function jmw_scripts()
 
     wp_enqueue_style('jmw-google-fonts', jmw_fonts_url(), '', null);
 
-    wp_enqueue_style('jmw-accordion-tips',THEME_URI . '/assets/css/accordion-tips.css', array(), SCRIPT_VER);
-
     wp_enqueue_style('jmw-style-small',  THEME_URI . '/assets/css/style-small.css?ver=111', array(), SCRIPT_VER);
 
     wp_enqueue_style('jmw-swiper',       THEME_URI . '/assets/css/swiper.css?ver=111', array(), SCRIPT_VER);
@@ -95,8 +93,6 @@ function jmw_scripts()
     wp_enqueue_style('style',            THEME_URI . '/assets/css/style.css?ver=111', array(), filemtime(get_theme_file_path('/assets/css/style.css')));
 
     wp_enqueue_style('jmw-custom-style', THEME_URI . '/assets/css/jmw-style.css?ver=111', array());
-
-    wp_enqueue_style('tl_tr_box', THEME_URI . '/assets/css/tl_tr_box.css');
 
     wp_enqueue_style('jmw-style', get_stylesheet_uri(), array(), SCRIPT_VER);
 
